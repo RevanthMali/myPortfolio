@@ -1,18 +1,19 @@
-import project1 from "../assets/projects/project01.png"
+import payment from "../assets/projects/payment.jpg"
 import project2 from "../assets/projects/project02.png"
 export const PROJECTS=[
     {
         title:"Payments APP",
-        image:project1,
-        description:" backend for a payments app",
+        image:payment,
+        description:"This project is a basic replica of a payment service like Paytm. It allows users to perform various actions such as signing in, signing up, checking their balance, and sending money to other users. Showcase fundamental features of a payments app with intuitive design and streamlinedfunctionality.",
         technologies:["MongoDb","NodeJs","ExpressJs","ReactJs"], 
         Link:"https://github.com/RevanthMali/payTM-Project"
     },
     {
-        title:"Payments APP",
+        title:"project",
         image:project2,
-        description:" backend for a payments app",
-        technologies:["MongoDb","NodeJs","ExpressJs","ReactJs"]
+        description:"Description",
+        technologies:["#1","#2","#3"] ,
+        Link:"#"
     }
 ] 
 

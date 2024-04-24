@@ -27,10 +27,8 @@ const About = ()=>{
                     transition={{duration:0.5, delay:0.5}}
                     className="w-full  lg:w-1/2  lg:p-8">
                     <div className=" flex justify-center lg:justify-start"> 
-                        <p className="my-2 max-w-xl py-6">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                            Aliquam iure laborum quis quam fuga consectetur assumenda, 
-                            impedit repudiandae dolores deserunt inventore beatae quisquam officiis voluptatum?
-                             Magnam, distinctio?</p>
+                        <p className="my-2 max-w-xl py-6">I am now seeking opportunities to apply my skills and knowledge in a professional setting.I am excited to contribute my technical expertise,
+                         learn from experienced professionals, and further develop my abilities. Let's connect and explore how we can collaborate to leverage technology for transformative solutions.</p>
                     </div>
                     </motion.div>
                 </div>

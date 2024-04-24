@@ -22,7 +22,9 @@ const Main = () =>{
                          initial={{x:-100, opacity:0}}
                          animate={{x:0, opacity:1}}
                          transition={{duration:0.5 , delay:1}}
-                        className="text-gray-300 lg:ml-5 pl-5 my-2 max-w-xl py-6 font-light tracking-tight">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ex quis velit aliquid hic omnis ratione atque quam illo unde aut rem distinctio perspiciatis aperiam quisquam dignissimos, in animi. Provident.</motion.p>
+                        className="text-gray-300 lg:ml-5 pl-5 my-2 max-w-xl py-6 font-light tracking-tight">To seek an entry-level position to begin my career in a high-level Professional environment, where I can apply 
+                        my skills and knowledge to make a significant contribution to the success of the company. Additionally, I am to 
+                        continuously updating myself to handle with the emerging technologies. </motion.p>
                     </div>
                 </div>
                 <div className="w-full lg:w-1/2 lg:p-8">
